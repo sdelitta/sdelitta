@@ -1,7 +1,7 @@
 [![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)](https://www.linkedin.com/in/steven-delitta/)
 
-<h1 align="center">Hi 👋 I'm Steve</h1>
-<h3 align="center">A passionate Front-end Software Engineer!</h3>
+<h1 align="center">Hello World 👋 I'm Steve</h1>
+<h3 align="center">A Passionate Front-end Software Engineer!</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sdelitta@gmail.com**
 
-- ⚡ Fun fact **I've lived in 4 states in the past 5 years!**
+- ⚡ Fun fact **When I was a kid, I'd have never guessed how fond I'd be of rubber duckies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
