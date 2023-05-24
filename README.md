@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on: **responsive cursor animations and a national Pet Finder app. They're challenging but fun!**
 
-- 🌱 I’m currently learning **Bootstrap and Kendo**
+- 🌱 I’m currently learning: **Bootstrap and Kendo**
 
 - 💬 Ask me about **drumming, film making, and photography!**
 
